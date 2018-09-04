@@ -1,4 +1,4 @@
-# Online Appendix to the paper "Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch
+# Online Appendix to the paper "Setting Reserve Requirements to Approximate the Efficiency of the Stochastic Dispatch"
 
 This repository contains the supplementary material for the paper "Setting Reserve Requirements to Approximate The Stochastic Dispatch Efficiency." This is a joint work by Vladimir Dvorkin with the Technical University of Denmark, Stefanos Delikaraoglou with the ETH Zurich, and Juan M. Morales with the University of Malaga.
 
